@@ -115,8 +115,8 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '-', s: _}
   - +
+  - BSLSH
   - {t: '`', s: '~'}
-  - {t: \, s: '|'}
   - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
