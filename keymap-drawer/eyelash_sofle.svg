@@ -620,6 +620,12 @@ rect.held, rect.combo.held {
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
 <use href="#mdi:apple-keyboard-shift" xlink:href="#mdi:apple-keyboard-shift" x="-9" y="-13" height="18" width="18.0" class="key tap glyph mdi:apple-keyboard-shift"/>
 </g>
+<g class="combo combopos-0">
+<path d="M171,226 l-126,-51" class="combo"/>
+<path d="M171,226 l126,51" class="combo"/>
+<rect rx="6" ry="6" x="157" y="213" width="28" height="26" class="combo"/>
+<text x="171" y="226" class="combo tap"><tspan style="font-size: 60%">&amp;mo1_with…</tspan></text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 388)" class="layer-layer1">

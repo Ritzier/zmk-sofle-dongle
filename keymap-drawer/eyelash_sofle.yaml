@@ -260,3 +260,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
+combos:
+- p: [26, 56]
+  k: '&mo1_with_shift'
+  l: [LAYER0]
