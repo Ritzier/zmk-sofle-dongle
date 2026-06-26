@@ -114,7 +114,7 @@
 &trans     &out OUT_USB  &bt OUT_BLE     &trans        &trans        &soft_off       &mmv MOVE_DOWN   &trans  &trans  &kp F11     &kp F12    &kp UNDER    &kp PLUS
 &trans     &trans        &trans          &trans        &trans        &trans          &mmv MOVE_LEFT   &trans  &trans  &trans      &trans     &kp LBRC     &kp RBRC
 &trans     &sys_reset    &trans          &bootloader   &trans        &trans          &mmv MOVE_RIGHT  &trans  &trans  &sys_reset  &soft_off  &bootloader  &trans
-&trans     &bt BT_CLR    &bt BT_CLR_ALL  &trans        &trans        &trans          &mkp LCLK        &trans  &trans  &trans      &trans     &ext_power EP_TOG
+&trans     &bt BT_CLR    &bt BT_CLR_ALL  &trans        &trans        &trans          &mkp LCLK        &trans  &trans  &trans      &trans     &trans
             >;
 
             display-name = "layer2";
